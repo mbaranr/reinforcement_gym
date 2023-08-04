@@ -8,6 +8,7 @@ Rewards Plot:
 ![image](https://github.com/M4mbo/PPO_Clip_for_LunarLander/assets/115642529/ba0f3d68-7776-49a1-b0bb-3e41a82cb1eb)
 
 
+![descarga (1) (1)](https://github.com/M4mbo/PPO_Clip_for_LunarLander/assets/115642529/670b9f08-b424-4c43-acb9-98abe4aefbc1)
 
-https://github.com/M4mbo/PPO_Clip_for_LunarLander/assets/115642529/b70ae36d-61ea-4b19-abbd-28483208098f
+
 
