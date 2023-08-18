@@ -1,5 +1,5 @@
 # PPO_Clip_for_LunarLander
-This repository showcases the implementation of a PPO Clip first-order method to solve the LunarLander discrete and continous environments.
+This repository showcases the implementation of a PPO Clip first-order method to solve the LunarLander discrete environment.
 
 # Lunar Lander Discrete:
 
@@ -11,5 +11,3 @@ Rewards Plot:
 ![descarga (1) (1)](https://github.com/M4mbo/PPO_Clip_for_LunarLander/assets/115642529/670b9f08-b424-4c43-acb9-98abe4aefbc1)
 
 
-
-# Lunar Lander Continous:
