@@ -1,4 +1,4 @@
-# PPO_Clip_for_LunarLander
+# PPO Clip for LunarLander
 This repository showcases the implementation of a PPO Clip first-order method to solve the LunarLander discrete environment.
 
 # Lunar Lander Discrete:
