@@ -1,6 +1,6 @@
 # Reinforecement Learning: OpenAI’s Gym Library
 
-This repository showcases two implementations of reinforcement learning algorithms applied to two environments of the OpenAI’s Gym Library: "*Lunar Lander*" and "*Frozen Lake*"
+This repository showcases implementations of reinforcement learning algorithms applied to two environments of the OpenAI’s Gym Library: "*Lunar Lander*" and "*Frozen Lake*"
 
 ## LunarLander
 
