@@ -41,5 +41,5 @@ Double Deep Q-Learning is used to reduce the maximaztion bias in Q-Learning. Thi
 
 ### Credits
 
-* [m4mbo](https://github.com/m4mbo) for the code
-* [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' for the theory
+* [m4mbo](https://github.com/m4mbo) - Code.
+* [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' - Theory.
